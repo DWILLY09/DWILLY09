@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DWILLY09
 - 👀 I’m interested in HTML,CSS, javascript and Python
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on with someone that has dealt with multiple project in webdeveloping 
+- 💞️ I’m looking to collaborate on with someone that has dealt with multiple projects in webdeveloping(Web Porfolio an functioning websites) 
 - 📫 How to reach me ...
 
 <!---
